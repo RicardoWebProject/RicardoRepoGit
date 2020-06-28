@@ -1,0 +1,7 @@
+Este es un archivo de texto nada más para comprobar
+cómo funciona el Merge en los repositorios de Git.
+
+En teoría, al momento de guardar el cambio en este archivo, debería de percibir al menos unas 7 inserciones, para luego 
+realizar el Merge hacia master.
+
+Estamos en la rama 'dev'.
